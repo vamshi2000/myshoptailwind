@@ -1,3 +1,12 @@
+# Techonologies used
+
+React js
+Tailwind css
+
+to run the app : npm run start
+
+I have created the mobile view and desktop view for order status page to open order status page click on order status link
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
