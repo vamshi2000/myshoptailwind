@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+#mobileNav {
+  box-shadow: 75px 8000px 0 8000px rgb(0 0 0 / 70%);
+  min-height: 150px;
+}
